@@ -41,7 +41,9 @@ getLegsAmount ({vaca: 1, coruja: 2, porco: 2})
 
  13) https://dev.to/coderbyte/reintroducing-code-review-with-an-interview-question-asked-at-amazon-5a89
 
- 
+ 14) Write a function that splits an array (first argument) into groups the length of size (second argument) and returns them as a two-dimensional array. Example: splitter([1, 2, 3, 4, 5, 6], 2) -> [[1, 2], [3, 4], [5, 6]]
+
+
 
 
 
