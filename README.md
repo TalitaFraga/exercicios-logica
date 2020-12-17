@@ -11,7 +11,7 @@ compradas pelo menos 12. Escreva um programa que leia o número de maçãs co
 
 5) Escreva uma função que vai receber uma lista com vários números inteiros. A função deve retornar quantos desses números são negativos.
 
-6)Escreva uma função que, dado uma lista de inteiros, retorne a média dos números.
+6) Escreva uma função que, dado uma lista de inteiros, retorne a média dos números.
 
 7) escreva uma função que, dado uma lista de inteiros, retorne o maior dos números.
 greatest([10]) => 10
@@ -38,6 +38,10 @@ animal (vaca, coruja, porco) e retorne o total de patas. Uma vaca e um porco
 têm 4 patas. 1 coruja tem 2 patas.
 getLegsAmount ({vaca: 1, coruja: 2, porco: 2})
  getlagsAmount ({vaca: 8, coruja: 3, porco: 12})
+
+ 13) https://dev.to/coderbyte/reintroducing-code-review-with-an-interview-question-asked-at-amazon-5a89
+
+ 
 
 
 
