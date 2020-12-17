@@ -7,12 +7,9 @@ const splitter = (arr, num) => {
 
     for (let i = 0; i < arr.length; i++ ) {
         arrayPequeno.push(arr[i])
-
         if (arrayPequeno.length == num) {
             arrayGrande.push(arrayPequeno)
             arrayPequeno = []
-        } else {
-            
         }
     }
     return arrayGrande
