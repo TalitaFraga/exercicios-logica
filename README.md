@@ -43,6 +43,10 @@ getLegsAmount ({vaca: 1, coruja: 2, porco: 2})
 
  14) Write a function that splits an array (first argument) into groups the length of size (second argument) and returns them as a two-dimensional array. Example: splitter([1, 2, 3, 4, 5, 6], 2) -> [[1, 2], [3, 4], [5, 6]]
 
+ 15) escreva uma função que faça compressão de strings. ou seja, pra cada letra que se repetir, apenas indique a quantidade de vezes que ela aparece:
+compress('aaabbbccdddd') -> 'a3b3c2d4'
+compress('aaaaaaaaaa') -> 'a10'
+
 
 
 
