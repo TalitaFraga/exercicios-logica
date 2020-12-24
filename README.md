@@ -47,6 +47,12 @@ getLegsAmount ({vaca: 1, coruja: 2, porco: 2})
 compress('aaabbbccdddd') -> 'a3b3c2d4'
 compress('aaaaaaaaaa') -> 'a10'
 
+16) Palíndromos são textos ou números que, independente da direção que for lido (esqueda pra direita, direita pra esquerda), tem o mesmo valor. Por exemplo, "Ana" é um palíndromo. "A grama é amarga" é um palíndromo. "Banana" não é um palíndromo. Escreva uma função que, recebendo uma string, indica se é um palíndromo.
+isPalindrome("ana") -> true
+isPalindrome("123") -> false
+isPalindrome("cccabaccc") -> true
+isPalindrome("2002") -> true
+
 
 
 
