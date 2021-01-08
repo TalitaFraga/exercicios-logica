@@ -53,6 +53,8 @@ isPalindrome("123") -> false
 isPalindrome("cccabaccc") -> true
 isPalindrome("2002") -> true
 
+17) contruindo o meu map
+
 
 
 
