@@ -23,4 +23,3 @@ console.log(myMap([1,2,3,4,5], x => x + 3))
 // }
 // console.log(myMap([1,2,3,4,5],3))
 
-

@@ -55,6 +55,12 @@ isPalindrome("2002") -> true
 
 17) contruindo o meu map
 
+18) construindo o meu filter
+
+19) Construindo o meu some
+
+20) Construindo o meu every 
+
 
 
 
