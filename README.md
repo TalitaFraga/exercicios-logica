@@ -61,6 +61,9 @@ isPalindrome("2002") -> true
 
 20) Construindo o meu every 
 
+21) given a reference point and a list of other points, write a function called findClosest that will return the element of the list that is closest to the reference point.
+note: a point here will be denoted as an object with x and y as properties.
+
 
 
 
