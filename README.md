@@ -64,6 +64,12 @@ isPalindrome("2002") -> true
 21) given a reference point and a list of other points, write a function called findClosest that will return the element of the list that is closest to the reference point.
 note: a point here will be denoted as an object with x and y as properties.
 
+22) se a gente quiser representar uma tabela ou uma matriz, por exemplo, em js, a gente faz mais ou menos assim:
+const table = [[20, 17, 15, 11], [12, 9, 65, 20], [15, 51, 32, 10]]
+crie uma função que retorna a soma de todos os elementos da matriz
+
+23) Escreva uma função que vai receber uma raiz quadrática e vai retornar a soma da diagonal 
+
 
 
 
