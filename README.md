@@ -70,6 +70,8 @@ crie uma função que retorna a soma de todos os elementos da matriz
 
 23) Escreva uma função que vai receber uma raiz quadrática e vai retornar a soma da diagonal 
 
+24) in recreational mathematics, a square array of numbers, usually positive integers, is called a magic square if the sums of the numbers in each row, each column, and both main diagonals are the same. given a matrix n x n denoted by an array of arrays, write a function to tell if it is a magic square
+
 
 
 
