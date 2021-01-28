@@ -72,6 +72,12 @@ crie uma função que retorna a soma de todos os elementos da matriz
 
 24) in recreational mathematics, a square array of numbers, usually positive integers, is called a magic square if the sums of the numbers in each row, each column, and both main diagonals are the same. given a matrix n x n denoted by an array of arrays, write a function to tell if it is a magic square
 
+25) Escreva uma função que dado dois arrays retorne a união dos elementos (Na teoria dos conjuntos a união dos elementos não adimte repetição).
+
+26) Have the function ArrayChallenge (strArr) read the array of string stored in strArr which will contain 2 elements: the first element will represent a list of comma-separated numbers sorted in ascending order, the second element will represent a second list of comma-separated numbers (also sorted). Your goal is to return a comma-separated string containing the numbers that occur in elements of strArr in sorted order. If there is no intersection, return the string false.
+Example: 
+input: ["1,3,4,7,13", "1,2,4,13,15"]
+output: 1,4,13
 
 
 

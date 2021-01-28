@@ -18,15 +18,15 @@ console.log(isPalindrome("ana"))
 //OU
 
 
-const isPalindrome = (word) => {
-    let palindrome = true
+// const isPalindrome = (word) => {
+//     let palindrome = true
 
-    for (let i = 0; i < word.length; i++) {
-        palindrome = palindrome && word[i] === word[word.length - i - 1]
-    }
-    return palindrome
-}
-console.log(isPalindrome("cccabaccc"))
+//     for (let i = 0; i < word.length; i++) {
+//         palindrome = palindrome && word[i] === word[word.length - i - 1]
+//     }
+//     return palindrome
+// }
+// console.log(isPalindrome("cccabaccc"))
 
 
 
