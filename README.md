@@ -79,8 +79,21 @@ Example:
 input: ["1,3,4,7,13", "1,2,4,13,15"]
 output: 1,4,13
 
+27) Write a function    
+        function solution (N);
+    that prints out ASCII-art in the shape of the capital letter L, made up of copies of the capital letter L. Parameter N is an integer (between 1 and 100) and represents the expected size of ASCII-art (the output should comprise N rows, the last of which should comprise N letters L)
+For example, here is the output for N = 4
 
+L
+L
+L
+LLLL
 
+The function should not return any value.
+You can print a string to the output (without or with the end-of-line character) as follows:
+
+process.stdout.write('sample string')
+process.stdout.write('whole line\n')
 
 
 
