@@ -95,5 +95,35 @@ You can print a string to the output (without or with the end-of-line character)
 process.stdout.write('sample string')
 process.stdout.write('whole line\n')
 
+28) Write a function "solution" that, given a string S consisting of N letters 'a' and/or 'b' returns true when all occurrences of letter 'a' are before all occurrences of letter 'b' and returns false otherwise.
+Example: 
+
+1. Given S = "aabbb", the function should return true.
+2. Given S = "ba", the function should return false
+3. Given S = "aaa", the function should return true. Note that 'b' does not need to occur in S.
+4. Given S = 'b, the function should return true. Note that 'a' does not need to occur in S.
+5. Given S = "abba", the function should return false.
+
+Write an efficient algorithm for the following assumptions.
+
+    * N is an integer within the range[1..300,000]
+    * String S consists only of the characters 'a' and/or 'b'
+
+29) Write a Function:
+        function solution(A);
+    that, given an array A consisting of N integers, return the maximum among all one-digit integers.
+    For example, given array A as follows: 
+        [-6, -91, 1011, -100, 84, -22, 0, 1, 473]
+    the function should return 1.
+
+    Assume that:
+    * N is an integer within the range [1..1,000];
+    * each element of array A is an integer within the range [-10,000..10,000];
+    * there is at least one element in array A which satisfies the condition in the task statement.
+
+    In your solution, focus on correctness. The performance of your solution will not be focus of the assessment.
+
+    30) https://osprogramadores.com/desafios/d04/
+
 
 
